@@ -103,8 +103,3 @@ namespace ThisKeywordSample
         public int Count { get => count; set => count = value; }
     }
 }
-
-
-
-
-
